@@ -4,14 +4,22 @@
         <description><![CDATA[Avocado Adventures]]></description>
         <link>http://avocadoadventures.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Jan 2017 06:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2017 06:15:38 GMT</lastBuildDate>
         <atom:link href="http://avocadoadventures.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 10 Jan 2017 06:15:20 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2a9658-6ff1-4f34-bba5-6ec22844368e.png">]]></description>
             <link>http://avocadoadventures.com/test-tes-test/index.html</link>
             <guid isPermaLink="false">0d3fc096-b662-4b5c-8bad-113613c38ac5</guid>
             <pubDate>Tue, 10 Jan 2017 06:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acf960e8-4505-4f1a-8516-1eef183326ab.png">]]></description>
+            <link>http://avocadoadventures.com/test/index.html</link>
+            <guid isPermaLink="false">ea4bf94d-6926-4544-aeaf-8d8cd5337fa1</guid>
+            <pubDate>Tue, 10 Jan 2017 06:14:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
