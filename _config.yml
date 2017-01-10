@@ -1,0 +1,19 @@
+typography_spectrum: 0.9424761089030653
+color:
+  brandStrength: 0.9996351255103946
+  lightness: 0.6564943075645715
+  saturation: 0.8643724161665887
+  rhythmicContrast: 0.674786584218964
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+github: true
+layout_spectrum: 0.6791524228174239
+name: Avocado Adventures
+url: 'http://avocadoadventures.com'
+title: Avocado Adventures
+content: []
+description: Everyday is an adventure
